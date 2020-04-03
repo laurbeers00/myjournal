@@ -1,2 +1,3 @@
-# myjournal
-My new repository for my journal
+# My Journal
+
+My new repository for my journal!! yay
